@@ -3,7 +3,7 @@
 
 I detta projektarbete skapade vi en kontaktbok där man kan lista kontakter, söka efter kontakter, uppdatera kontakter och lägga till nya kontakter. Detta kan användaren välja mellan: Lista, Sök, Uppdatera, Lägg till och Ta bort. Detta kan lagras som en lista i applikationen. Kontaktboken lagras på en json-fil så att alla kontakter finns kvar mellan körningar av programmet. Användaregräsnittet är byggt i JavaFX.
 
-# Specifikation (ULM av projektet)
+# Specifikation (UML av projektet)
 
 # ![labb_3](https://tva1.sinaimg.cn/large/0081Kckwgy1glfnh5rvb1j30kl0h1wg3.jpg)
 
