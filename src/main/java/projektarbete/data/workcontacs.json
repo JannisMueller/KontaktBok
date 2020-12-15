@@ -1,7 +1,16 @@
 {
+  "Jannis": {
+    "company": "Senab",
+    "title": "PK",
+    "jobPhoneNumber": "0723068922",
+    "firstName": "Jannis",
+    "lastName": "Mueller",
+    "phoneNumber": "0723068922",
+    "email": "jannis@test.se"
+  },
   "Joakim": {
-    "company": "Telia",
-    "title": "Projektledare",
+    "company": "Tre",
+    "title": "VD",
     "jobPhoneNumber": "072468932",
     "firstName": "Joakim",
     "lastName": "Liden",
@@ -16,6 +25,15 @@
     "lastName": "Konyi",
     "phoneNumber": "072353738",
     "email": "c.konyi@hell.com"
+  },
+  "Valter": {
+    "company": "Telia",
+    "title": "Projektledare",
+    "jobPhoneNumber": "0723068922",
+    "firstName": "Valter",
+    "lastName": "Berggren",
+    "phoneNumber": "0723068922",
+    "email": "valter@telia.se"
   },
   "Albert": {
     "company": "Telia",
